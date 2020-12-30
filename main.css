@@ -8,3 +8,8 @@ h1 {
     font-size: 56px;
     color: deepskyblue;
 }
+.homepage {
+    padding: 150px 0;
+    background-image: url(shorturl.at/vNV59);
+    background-size: cover;
+}
