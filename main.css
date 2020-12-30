@@ -8,6 +8,18 @@ h1 {
     font-size: 56px;
     color: deepskyblue;
 }
+
+.NavBar ul{
+    display: inline-flex;
+    margin: 150px;
+}
+
+.NavBar ul li {
+    list-style: none;
+    margin: 0 20px;
+    cursor: pointer;
+} 
+
 .Homepage {
     height: 100%;
     width: 100%;
