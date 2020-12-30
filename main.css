@@ -10,7 +10,7 @@ h1 {
 }
 .Homepage {
     padding: 400px 0;
-    background-image: url(shorturl.at/abBX0);
+    background-image: url(shorturl.at/abBX0)100% 100% no-repeat;
     background-size: cover;
     color: white;
 }
