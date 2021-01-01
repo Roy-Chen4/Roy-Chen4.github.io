@@ -13,14 +13,17 @@ h1 {
     background-color: deepskyblue;
 }
 
-.NavBar {
-    display: inline-flex;
-    margin: 150px;
-    color: white;
+nav{
+
 }
 
-.NavBar li {
+nav ul{
     list-style-type: none;
+    margin: 150px;
+}
+
+nav li {
+    display: inline-flex;
     margin: 0 20px;
     cursor: pointer;
 } 
