@@ -9,12 +9,12 @@ h1 {
     color:deepskyblue;
 }
 
-.NavBar ul{
+.NavBar {
     display: inline-flex;
     margin: 150px;
 }
 
-.NavBar ul li {
+.NavBar li {
     list-style-type: none;
     margin: 0 20px;
     cursor: pointer;
