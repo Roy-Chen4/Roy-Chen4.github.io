@@ -29,7 +29,7 @@ header::after {
 }
 
 nav {
-    float: right;
+    text-align: center;
 }
 
 nav ul {
@@ -51,7 +51,6 @@ nav a {
     color: white;
     text-transform: uppercase;
     text-decoration: none;
-    text-align: center;
     font-size: 18px;
 }
 
