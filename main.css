@@ -39,7 +39,7 @@ nav ul {
 }
 
 nav li {
-    display: inline-flex;
+    display: inline-block;
     margin-left: 85px;
     padding-top: 14px;
     cursor: pointer;
