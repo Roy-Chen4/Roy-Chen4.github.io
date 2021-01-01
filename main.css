@@ -12,6 +12,8 @@ h1 {
 .NavBar {
     display: inline-flex;
     margin: 150px;
+    background-color: grey;
+    color: white;
 }
 
 .NavBar li {
