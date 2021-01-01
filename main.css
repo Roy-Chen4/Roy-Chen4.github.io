@@ -9,10 +9,13 @@ h1 {
     color:deepskyblue;
 }
 
+.header{
+    background-color: deepskyblue;
+}
+
 .NavBar {
     display: inline-flex;
     margin: 150px;
-    background-color: grey;
     color: white;
 }
 
@@ -25,10 +28,8 @@ h1 {
 .Homepage {
     height: 100%;
     width: 100%;
-    
     background-image: url(https://wallpapermemory.com/uploads/435/skyscraper-background-hd-1680x1050-488612.jpg);
     background-size: cover;
-    
 }
 
 footer {
