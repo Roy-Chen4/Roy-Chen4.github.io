@@ -73,3 +73,14 @@ nav a::before {
     width: 0%;
     transition: all ease-in-out 350ms;
 }
+
+h1 {
+    color: white;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
