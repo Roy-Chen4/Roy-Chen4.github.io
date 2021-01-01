@@ -14,7 +14,9 @@ body {
 }
 
 header {
-    background-color: transparent;
+    background-color: deepskyblue;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 
 header::after {
