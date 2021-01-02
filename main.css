@@ -94,7 +94,7 @@ h1 {
     cursor: pointer;
     width: 100px;
     height: auto;
-    padding-right: 200px;
+    margin-left: 100px;
     outline: none;
     border: none;
     color: white;
