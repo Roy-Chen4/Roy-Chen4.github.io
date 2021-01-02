@@ -60,7 +60,7 @@ nav a {
 }
 
 nav a:hover {
-    color: black;
+    color: #8EA9C1;
 }
 
 nav a:hover::before {
