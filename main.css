@@ -97,7 +97,15 @@ h1 {
     padding-left: 200px;
     outline: none;
     border: none;
+    color: white;
+    border-radius: 1.5em 1.5em 1.5em 1.5em;
 }
+
+.btn1:hover {
+    transform: translateY(-5px);
+}
+
+
 
 
 
