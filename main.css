@@ -92,6 +92,11 @@ h1 {
 .btn1 {
     background-color: #04447D;
     cursor: pointer;
+    width: 100px;
+    height: auto;
+    padding-left: 200px;
+    outline: none;
+    border: none;
 }
 
 
