@@ -16,7 +16,9 @@ body {
 header {
     background-color: #68B3F5;
     opacity: 0.5;
+    /*
     filter: alpha(opacity=50);
+    */
 }
 
 header::after {
@@ -39,8 +41,6 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    opacity: 100;
-    filter: opacity(alpha=100);
 }
 
 nav li {
