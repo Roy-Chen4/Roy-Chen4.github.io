@@ -92,7 +92,7 @@ h1 {
 .btn1 {
     background-color: #04447D;
     cursor: pointer;
-    box-sizing: 200px 80px;
+    box-sizing: 80px 200px;
     font-size: 10px;
     margin-left: 325px;
     padding-top: 300px;
