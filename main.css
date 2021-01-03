@@ -39,6 +39,7 @@ header::after {
     padding: 15px 15px;
     width: 50px;
     height: auto;
+    background: none;
 }
 
 nav {
