@@ -40,9 +40,15 @@ header::after {
     width: 50px;
     height: auto;
     background: none;
-    margin-right: 100px;
+    margin-right: 50px;
     padding-top: 25px;
 }
+
+/*
+.photo a{
+    transform: 
+}
+*/
 
 nav {
     padding-left: 200px;
