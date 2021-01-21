@@ -103,7 +103,9 @@ h1 {
     position: fixed;
     z-index: 1;
     top: 350px;
+    /*
     overflow-x: hidden;
+    */
     padding-top: 20px;
 }
 
