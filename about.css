@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: 30px;
     height: 100%;
     width: 100%;
     background-color: white;
@@ -132,4 +132,12 @@ h1 {
 .headshot {
     width: 80px;
     height: auto;
+}
+
+.h2 {
+    font-size: 36px;
+}
+
+.h3 {
+    font-size: 28px;
 }
